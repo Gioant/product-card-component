@@ -1,6 +1,6 @@
 # Product preview card component 
 
-![Preview For Product Card](./design/desktop-preview.jpeg)
+![Preview For Product Card](./design/desktop-preview.jpg)
 
 
 This is a solution to the [Product card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). 
